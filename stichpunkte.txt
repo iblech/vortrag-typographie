@@ -1,0 +1,55 @@
+zu viele Betonungsarten
+It is said that when a certain New York Times magazine printed their headline
+with drop shadow, hundreds of designers called in the following day to the
+extent that the NY Times had to disconnect their phone temporarily.
+
+Hurensöhne...
+schlechter Umbrüche (etwa nicht direkt nach einem Komma, oder bei Größen)
+Straßen
+aufeinanderfolgende Zeilen, die mit demselben Buchstaben beginnen
+Anführungszeichen vs. Gänsefüßchen
+Bindestriche
+schlechter Blocksatz
+Unausgeglichener Rand
+schlechtes Kerning: http://xkcd.com/1015/
+zu viel Zeilenzwischenraum
+blöde Schriften
+Kapitälchen http://www.commarts.com/columns/how-explain-typography
+alte Ziffern
+richtige Größenunterschiede bei Überschriften
+schlechter Kontrast
+Pleonken, mehrere Leerzeichen zwischen Wörtern
+fett vs. kursiv
+Auslassungszeichen
+niemals unterstreichen (außer bei Hyperlinks)
+Seitenränder, Zeilenlänge (45 bis 75 Zeichen)!
+schlechte Silbentrennungen elegant-ly schlecht, ele-gantly ok
+QED-Box versetzt
+Nichtmathemodus
+mit Symbol beginnende Sätze oder Zeilen
+
+Serifen. Adjektive: formal modern
+Unless you have a background in graphic design and typography, never combine
+more than two typefaces on the same page.
+Never combine two serif fonts on the same page, and never combine two sans
+serif fonts on the same page.
+
+praktische Tipps:
+koma-Klassen
+microtype
+Tabellen
+\qedhere
+
+http://listverse.com/2012/06/24/top-10-typography-crimes/
+
+http://reallybadtypography.tumblr.com/
+
+http://24.media.tumblr.com/b83dc36af2d15b5e27311116a874d1db/tumblr_mtkujaAAwr1r5dfbwo1_500.jpg
+http://37.media.tumblr.com/7ebf9ba99b6637da7fc5fcfe74197ff9/tumblr_n4bzz7Y9Z21qaxulbo1_500.jpg
+http://www.loveofgraphics.com/wp-content/uploads/2011/06/Graphic-Design_Monster-Typography.jpg
+
+
+http://designshack.net/articles/typography/8-rules-for-creating-effective-typography/
+http://www.smashingmagazine.com/typography-guidelines-and-references/
+http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/
+http://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf
